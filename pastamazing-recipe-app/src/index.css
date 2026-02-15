@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Cozy Home Cooking Global Styles */
+
+body {
+  font-family: 'Inter', sans-serif;
+  background-color: #FAF3E0; /* cream */
+  margin: 0;
+}
+
+h1, h2, h3 {
+  font-family: 'Playfair Display', serif;
+}
